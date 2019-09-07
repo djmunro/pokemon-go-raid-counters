@@ -1,0 +1,16 @@
+.App {
+  font-family: "Segoe UI", sans-serif;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.type-label + .type-label {
+  margin-left: 3px;
+}
+
+@media (min-width: 1280px) {
+  .container {
+    width: 30vw;
+  }
+}
